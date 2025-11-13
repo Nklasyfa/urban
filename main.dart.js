@@ -90487,7 +90487,7 @@ this.a55()},
 K(a){var s,r=null,q=this.e
 q===$&&A.a()
 s=$.bv.O()
-return A.ip(r,B.j,A.dQ(A.dE(A.b([A.RA(A.ma("assets/images/splash.png",r,50*$.bv.O()/100,50*s/100),q,r,!0),A.b1(r,5*$.bC.O()/100,r),A.b1(B.IE,r,50*$.bv.O()/100),A.b1(r,3*$.bC.O()/100,r),A.b8("dibuat oleh: Sultan Raffi Suryanegara",r,r,r,A.cy(r,r,B.P,r,r,r,r,r,r,r,r,10*($.bv.O()/3)/100,r,r,B.a2,r,r,!0,r,r,r,r,r,r,r,r),r,r)],t.p),B.W,B.bV,B.a_),r,r),r)}}
+return A.ip(r,B.j,A.dQ(A.dE(A.b([A.RA(A.ma("assets/images/splash.png",r,50*$.bv.O()/100,50*s/100),q,r,!0),A.b1(r,5*$.bC.O()/100,r),A.b1(B.IE,r,50*$.bv.O()/100),A.b1(r,3*$.bC.O()/100,r),A.b8("dibuat oleh: Kelompok 1 IHIRRRRRRRRRRRR",r,r,r,A.cy(r,r,B.P,r,r,r,r,r,r,r,r,10*($.bv.O()/3)/100,r,r,B.a2,r,r,!0,r,r,r,r,r,r,r,r),r,r)],t.p),B.W,B.bV,B.a_),r,r),r)}}
 A.IP.prototype={
 l(){var s=this,r=s.bA$
 if(r!=null)r.H(0,s.gh7())
